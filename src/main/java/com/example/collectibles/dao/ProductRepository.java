@@ -1,4 +1,4 @@
-package com.example.collectibles.controllers.dao;
+package com.example.collectibles.dao;
 
 import com.example.collectibles.model.Product;
 import org.springframework.data.jpa.repository.Query;

@@ -1,6 +1,6 @@
 package com.example.collectibles.controllers;
 
-import com.example.collectibles.controllers.dao.ProductRepository;
+import com.example.collectibles.dao.ProductRepository;
 import com.example.collectibles.model.Product;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
